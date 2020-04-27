@@ -76,7 +76,7 @@
                 </tr>
                 <tr class="table table-bordered" >
                     <td>Bootstrap 4</td>
-                    <td class="progress progress-bar bg-warning progress-bar-animated progress-bar-striped" style="width: 20%;" >20%</td>
+                    <td class="progress progress-bar bg-danger progress-bar-animated progress-bar-striped" style="width: 20%;" >20%</td>
                 </tr>
                 <tr class="table table-bordered" >
                     <td>JS</td>
